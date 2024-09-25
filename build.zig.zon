@@ -1,5 +1,5 @@
 .{
-    .name = "mach-glfw",
+    .name = "my-zig-glfw",
     .version = "0.2.0",
     .paths = .{
         "src/",
